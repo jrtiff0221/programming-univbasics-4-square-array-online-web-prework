@@ -6,8 +6,10 @@ def square_array(array)
     array[counter] = number*number
     
     puts array[counter]
+
     counter += 1
   end
   
   return array
 end
+
